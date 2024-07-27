@@ -1,0 +1,1 @@
+This is an end to end project of a weather app. When parameters of city, unit and the api id of OpenWeather api have been passed in the html front end page, all weather details will be displayed on the html page.
